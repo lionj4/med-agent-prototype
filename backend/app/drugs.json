@@ -1,0 +1,18 @@
+[
+  {
+    "drug_name_en": "Amoxicillin",
+    "active_ingredient": "Amoxicillin",
+    "typical_dose": "500 mg every 8 hours",
+    "interactions": ["Allopurinol"],
+    "contraindications": ["Penicillin allergy"],
+    "source_url": "https://dailymed.nlm.nih.gov"
+  },
+  {
+    "drug_name_en": "Paracetamol",
+    "active_ingredient": "Paracetamol",
+    "typical_dose": "500-1000 mg every 4-6 hours, max 3 g/day",
+    "interactions": [],
+    "contraindications": [],
+    "source_url": "https://dailymed.nlm.nih.gov"
+  }
+]
